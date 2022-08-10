@@ -1,7 +1,7 @@
 # Awesome Books Online
 A collection of online books (primarily on technical topics) that I found to be educational, valuable, informative, and/or otherwise helpful for myself or others. 
 
-- [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
+- [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/) "a book on the functional paradigm in general" [functional programming, programming paradigms, intermediate, advanced]
 - [Intro to Backend Development by Alice Wang & Conner Sewnberg](https://backend-course.cornellappdev.com/) "backend development can encompass many things in a system, including (but not limited to) application logic, databases, and servers" [backend, software development, software engineering, databases, servers, APIs, web development]
 - [Babashka book by Michiel Borkent](https://book.babashka.org/) "a book about scripting with Clojure and babashka" [Babashka, terminal, scripting, Clojure, bash]
 - [Klipse Handbook](https://book.klipse.tech/) How to use Klipse technology [Clojure, ClojureScript, editable code demos, code snippet embedding]
